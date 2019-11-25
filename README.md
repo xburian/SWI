@@ -1,3 +1,3 @@
 # SWI
-NOT For testing purposes
-JOJOJOJOJOJOJ
+For yes testing purposes
+Some trubles with updating repo :(
