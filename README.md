@@ -1,3 +1,3 @@
 # SWI
-For yes testing purposes
-Some trubles with updating repo :(
+Not For yes testing purposes
+Some trubles with some updating repo :-(
