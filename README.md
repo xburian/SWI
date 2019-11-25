@@ -1,3 +1,3 @@
 # SWI
-For testing purposes
+For yes testing purposes
 Some trubles with updating repo :(
